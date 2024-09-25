@@ -1,0 +1,30 @@
+#about {
+    padding: 150px;
+    background-color: #cecbb8;
+    text-align: center;
+}
+
+#about h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+#about p {
+    font-size: 18px;
+    margin: 15px 0;
+    line-height: 1.6;
+}
+
+.team {
+    margin: 20px 0;
+}
+
+.team a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.team a:hover {
+    text-decoration: underline;
+}
